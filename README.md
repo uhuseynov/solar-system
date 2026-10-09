@@ -4,4 +4,4 @@ A simple animated solar system built with HTML and CSS, featuring the Sun, Earth
 
 ## Run locally
 
-Open `index.html` in your browser.
+Open `solar-system.html` in your browser.
